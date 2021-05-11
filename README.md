@@ -2,8 +2,10 @@
 ## description
 This is my first website. I used HTML and CSS to make this website. 
 ## table of contents
-homepage
-portfolio
+homepage,
+portfolio,
 contact
 ## credits
 Bootstrap CSS library
+## responsiveness 
+This webpage is fully mobile and tablet responsive.
