@@ -1,0 +1,15 @@
+.bluecontainer {
+  background-color: aquamarine;
+
+}
+.githublink {
+  height: 40px;
+  width: 40px;
+  align-items: center;
+}
+body{
+  background-color:lightsteelblue;
+}
+.myWhite{
+  color: white;
+}
