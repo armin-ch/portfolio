@@ -1,15 +1,23 @@
 .bluecontainer {
   background-color: aquamarine;
+}
 
-}
 .githublink {
-  height: 40px;
-  width: 40px;
+  height: 50px;
+  width: 50px;
   align-items: center;
+  padding-right: 10px;
 }
-body{
-  background-color:lightsteelblue;
+
+body {
+  background-color: lightsteelblue;
 }
-.myWhite{
+
+.myWhite {
   color: white;
+}
+
+.linkedin {
+  height: 65px;
+  width: 65px;
 }
