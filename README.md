@@ -1,6 +1,6 @@
 # portfolio
 ## description
-This is my first website. I used HTML and CSS to make this website. 
+This is my portfolio website. I used HTML, JavaScript, and CSS to make this website. Upon submission of form in portfolio page, and email will be sent to my personal email address containing your message.
 ## table of contents
 homepage,
 portfolio,
